@@ -10,7 +10,7 @@ function Navbar() {
                     <img src={logo} alt="logo" />
                 </a>
                 <Link to="/product">
-                    <button type="button" class="product-button">
+                    <button type="button" class="Product-button">
                         Product Page
                     </button>
                 </Link>
@@ -24,7 +24,7 @@ export default Navbar;
 /* For adding in a button that takes us directly to the shopping cart
  * Can be easily popped in under Product page s
                 <Link to="/shopping">
-                    <button type="button" class="shopping-button">
+                    <button type="button" class="Shopping-button">
                         Shopping Cart
                     </button>
                 </Link>

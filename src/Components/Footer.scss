@@ -1,10 +1,10 @@
 ﻿.Footer {
     height: 100px;
-    background-color: transparent;
+    background-color: black;
     width: 100%
 }
 
-.footer-container {
+.Footer-container {
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
@@ -13,11 +13,24 @@
     padding: 10px 70.813px 10px 70.813px;
 }
 
-.capstone-group-container {
+.Capstone-group-container {
     margin-left: 50px;
     margin-right: 50px;
     padding: 20px;
     background-color: rgba(0, 0, 0, .5);
     position: relative;
     font-size: 1.6vw;
+}
+
+.Image-link-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 10px 70.813px 10px 70.813px;
+}
+
+.Footer img {
+    filter: invert(1);
 }
