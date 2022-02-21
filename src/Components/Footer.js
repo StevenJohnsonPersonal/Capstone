@@ -16,7 +16,7 @@ function Footer() {
                     </p>
                 </span>
                 <div className="Image-link-container">
-                    <a href="//https://www.youtube.com/channel/UCkocc2mzcG0fDg80vAtJgwA/featured">
+                    <a href="https://www.youtube.com/channel/UCkocc2mzcG0fDg80vAtJgwA">
                         <img src={youtube_logo} alt="youtube_logo" />
                     </a>
                 </div>
